@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SberFragmentManual</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pls_enter_word">Pls enter word</string>
+    <string name="enter">Enter</string>
+</resources>
